@@ -1,0 +1,11 @@
+[package]
+name = "kronosd"
+version = "0.0.1"
+edition = "2021"
+authors = ["xerosic <xerosic@northwind.cc>"]
+description = "Kronos, a crontab-like system level scheduler. Built to be lightweight and easier to confgure."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+yaml-rust = "0.4.5"
