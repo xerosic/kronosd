@@ -1,5 +1,5 @@
 # kronosd
-Kronos was born by my frustration with using the crontab syntax and to make a better configuration system YAML will be used.
+Kronos was born by my frustration with using the crontab syntax and to make a better configuration system JSON will be used.
 
 # Goals
 
